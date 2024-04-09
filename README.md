@@ -1,8 +1,5 @@
-# React + Vite
+# Conecta4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de Conecta4 creado con React. El objetivo del juego es ser el primer jugador en conectar cuatro fichas de tu color de forma vertical, horizontal o diagonal en el tablero.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](Conecta4.png)
